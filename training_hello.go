@@ -1,4 +1,4 @@
-package go_hello_tool
+package training_hello
 
 
 func Hello() string {
